@@ -1,0 +1,2 @@
+select stuMajor
+from student
